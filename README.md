@@ -16,6 +16,7 @@ Second project is based on HR Employee Attrition to classify whether an employee
 To check my notebook please click [here](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/HR-Employee-Attrition/HR_Analytics.ipynb)
 
 Third project is based on Gender Recognition by voice. The voice of a person is classified as male or female after analysis of acoustic properties of speech.
+
 ![Gender recognition](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/vbgraph.png)
 
 To check my notebook please click [here](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/Gender%20Recognition%20by%20Voice/Gender_Recognition_by_Voice.ipynb)
