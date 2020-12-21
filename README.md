@@ -1,4 +1,4 @@
-# Python Machine Learning Projects
+1. # Python Machine Learning Projects
 
 ![Python](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/1_bO6lRwKN8TlPhEbxNTHhAA.png?raw=true)
 
@@ -14,3 +14,8 @@ Second project is based on HR Employee Attrition to classify whether an employee
 ![enter image description here](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/download.png?raw=true)
 
 To check my notebook please click [here](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/HR-Employee-Attrition/HR_Analytics.ipynb)
+
+Third project is based on Gender Recognition by voice. The voice of a person is classified as male or female after analysis of acoustic properties of speech.
+![Gender recognition](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/vbgraph.png)
+
+To check my notebook please click [here](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/Gender%20Recognition%20by%20Voice/Gender_Recognition_by_Voice.ipynb)
