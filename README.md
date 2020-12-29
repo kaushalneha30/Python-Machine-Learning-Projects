@@ -1,4 +1,4 @@
-1. # Python Machine Learning Projects
+ # Python Machine Learning Projects
 
 ![Python](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/1_bO6lRwKN8TlPhEbxNTHhAA.png?raw=true)
 
