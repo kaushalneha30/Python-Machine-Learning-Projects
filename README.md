@@ -1,4 +1,4 @@
-## Python Machine Learning Projects
+**## Python Machine Learning Projects**
 
 ![Python](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/1_bO6lRwKN8TlPhEbxNTHhAA.png?raw=true)
 
@@ -6,6 +6,7 @@ The projects uploaded in this repository are based on Machine Learning using Pyt
 
 
 **There are three projects:**
+
 **First project** is based on Prediction of Popularity of Halloween Candies using regression models.
 
 ![Candies](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/Halloween_candies.jpg?raw=true)
