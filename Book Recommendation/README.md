@@ -11,6 +11,7 @@ There are three datasets:
  - Users - User ID, location and age
  
 By combining three datasets, a final recommendation of top 5 books closest to the selected book is made.
+
  ![Books](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/Book%20Recommendation/wp2297919.jpg)
 
 To check my notebook please click [here](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/Book%20Recommendation/Book_Recommendation%20.ipynb)
