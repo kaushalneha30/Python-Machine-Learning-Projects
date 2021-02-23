@@ -20,3 +20,9 @@ Third project is based on Gender Recognition by voice. The voice of a person is 
 ![Gender recognition](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/vbgraph.png)
 
 To check my notebook please click [here](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/Gender%20Recognition%20by%20Voice/Gender_Recognition_by_Voice.ipynb)
+
+Fourth project is based on recommendation of top 5 books closest to the selected book. This project uses book readers data and recommends books based on their ratings to other books.
+
+![enter image description here](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/Book%20Recommendation/image.jpg)
+
+To check my notebook please click [here](https://github.com/kaushalneha30/Python-Machine-Learning-Projects/blob/main/Book%20Recommendation/Book_Recommendation%20.ipynb)
